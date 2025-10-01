@@ -2,7 +2,7 @@
 
 ## Unión de dos programas
 
-Lo  que aremos primero es investigar superficialmente como se hace esto solo con la intención de tener menos fallas posibles y ahorrar un poco mas de tiempo. necesitamos saber cosas simples como: 
+Lo  que haremos primero es investigar superficialmente como se hace esto solo con la intención de tener menos fallas posibles y ahorrar un poco mas de tiempo. necesitamos saber cosas simples como: 
 
 * Que hace la app 1 y que hace la app2 .
 * Que entradas y salidas tiene cada una.
